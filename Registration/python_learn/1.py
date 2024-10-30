@@ -1,0 +1,6 @@
+print('"Nexia", "Tiko",\'Damas\', ko\'rganlar qilar havas ')
+print("5 ning 4-darjasi ",5**4)
+print("22 ni 4 ga bo\'lganda qoldiq",22%4)
+print("S= ",125*125 ,"\nP= ",4*125 )
+print("S= ",3.14*12**2/4)
+print((6**2+7**2)**(1/2))
